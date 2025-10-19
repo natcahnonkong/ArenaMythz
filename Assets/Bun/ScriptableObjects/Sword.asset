@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a61d7dfc6803a54fab2a635504435a0, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  itemName: New Item
+  itemID: item_000
+  description: Item description
+  icon: {fileID: 0}
+  isStackable: 1
+  maxStackSize: 99
+  itemPrefab: {fileID: 0}
+  damage: 10
+  attackRange: 2
+  attackAngle: 60
+  attackCooldown: 1
+  attackAnimationTrigger: Attack
+  hitDetectionDelay: 0.3
+  attackEffect: {fileID: 0}
+  attackSound: {fileID: 0}
+  weaponModelPrefab: {fileID: 0}
