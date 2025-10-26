@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e2a39f7b699837e4a8f34f77bb50698f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 189884
+  packageName: Modular First Person Controller
+  packageVersion: 1.0.1
+  assetPath: Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.prefab
+  uploadId: 428261
